@@ -9,8 +9,11 @@ import com.firebase.ui.auth.IdpResponse
 import android.content.Intent
 import android.view.Menu
 import android.view.MenuItem
+import android.view.View
 import android.widget.Toast
+import com.google.android.material.snackbar.Snackbar
 import com.google.firebase.auth.FirebaseAuth
+import kotlinx.android.synthetic.main.activity_main.*
 import java.util.*
 
 private val RC_SIGN_IN = 123
