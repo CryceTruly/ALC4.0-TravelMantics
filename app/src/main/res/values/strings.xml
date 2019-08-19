@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Travelmantics</string>
+    <string name="log_back_in">Log back In</string>
+    <string name="you_have_been_logged_out">You have been Logged Out</string>
 </resources>
